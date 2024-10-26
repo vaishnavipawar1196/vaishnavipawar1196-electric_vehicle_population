@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/vaishnavipawar1196-electric_vehicle_population/static/css/main.e80b7533.css",
+    "main.js": "/vaishnavipawar1196-electric_vehicle_population/static/js/main.5ec2e616.js",
+    "static/js/453.1578c4d2.chunk.js": "/vaishnavipawar1196-electric_vehicle_population/static/js/453.1578c4d2.chunk.js",
+    "index.html": "/vaishnavipawar1196-electric_vehicle_population/index.html",
+    "main.e80b7533.css.map": "/vaishnavipawar1196-electric_vehicle_population/static/css/main.e80b7533.css.map",
+    "main.5ec2e616.js.map": "/vaishnavipawar1196-electric_vehicle_population/static/js/main.5ec2e616.js.map",
+    "453.1578c4d2.chunk.js.map": "/vaishnavipawar1196-electric_vehicle_population/static/js/453.1578c4d2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e80b7533.css",
+    "static/js/main.5ec2e616.js"
+  ]
+}
